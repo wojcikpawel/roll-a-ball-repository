@@ -6,21 +6,21 @@ Direct3D:
     Vendor:   Intel
     VRAM:     1144 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\RollABallRepository\Builds\roll-a-ball_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\RollABallRepository\Builds\roll-a-ball_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\RollABallRepository\Builds\roll-a-ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading E:\RollABallRepository\Builds\roll-a-ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: E:\RollABallRepository\Builds\roll-a-ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\RollABallRepository\Builds\roll-a-ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\RollABallRepository\Builds\roll-a-ball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading E:\RollABallRepository\Builds\roll-a-ball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.057 seconds
-Platform assembly: E:\RollABallRepository\Builds\roll-a-ball_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: E:\RollABallRepository\Builds\roll-a-ball_Data\Managed\System.dll (this message is harmless)
+Platform assembly: H:\DEWELOPMENT-REPOZYTORIA\Unity3DProjects\roll-a-ball-repository\Builds\roll-a-ball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\DEWELOPMENT-REPOZYTORIA\Unity3DProjects\roll-a-ball-repository\Builds\roll-a-ball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\DEWELOPMENT-REPOZYTORIA\Unity3DProjects\roll-a-ball-repository\Builds\roll-a-ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\DEWELOPMENT-REPOZYTORIA\Unity3DProjects\roll-a-ball-repository\Builds\roll-a-ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\DEWELOPMENT-REPOZYTORIA\Unity3DProjects\roll-a-ball-repository\Builds\roll-a-ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\DEWELOPMENT-REPOZYTORIA\Unity3DProjects\roll-a-ball-repository\Builds\roll-a-ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\DEWELOPMENT-REPOZYTORIA\Unity3DProjects\roll-a-ball-repository\Builds\roll-a-ball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\DEWELOPMENT-REPOZYTORIA\Unity3DProjects\roll-a-ball-repository\Builds\roll-a-ball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: H:\DEWELOPMENT-REPOZYTORIA\Unity3DProjects\roll-a-ball-repository\Builds\roll-a-ball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\DEWELOPMENT-REPOZYTORIA\Unity3DProjects\roll-a-ball-repository\Builds\roll-a-ball_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3286x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.228878 ms
+UnloadTime: 0.700298 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2550 -> priority: 1 
+  Thread -> id: 1e90 -> priority: 1 
